@@ -7,3 +7,8 @@ print(f"이름: {c1}")
 print(f"학번: {c2}")
 print(f"학과: {c3}")
 print(f"학교: {c4}")
+
+
+
+
+
